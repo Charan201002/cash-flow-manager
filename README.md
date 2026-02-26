@@ -22,8 +22,8 @@ Coming Soon...
 - Recent Transactions
 
 ### 💳 Transactions
-- Add / Edit / Delete Income
-- Add / Edit / Delete Expenses
+- Add / Delete Income
+- Add / Delete Expenses
 - Category Management
 - Emoji Picker for Categories
 
@@ -89,7 +89,6 @@ Secure API Access Granted
 - Add Income
 - Add Expenses
 - Category Management
-- Delete Confirmation Modals
 
 ### 📊 Analytics Dashboard
 - Total Balance Calculation
