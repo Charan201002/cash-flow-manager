@@ -11,8 +11,6 @@ Coming Soon...
 
 ---
 
-## 📸 Screenshots
-
 ### 🔐 Authentication
 - Secure JWT-based Login & Signup
 - Role-based access control
